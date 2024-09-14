@@ -1,5 +1,5 @@
-let a = 4;
-let b = 3;
+let a = 7;
+let b = 2;
 if (a > b) {
   console.log(`the variable a = ${a} is greater than the variable b = ${b}`);
 }
